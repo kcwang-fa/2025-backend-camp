@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    fon-size: 20px
+}
+h1:hover{
+    color: blue;
+}
+
+h1:active{
+    color: black;
+}
+
+p{
+    color: blue;
+}
+
+.style1{
+    color: pink
+}
